@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-[](screenshot.jpg)
+![Screenshot of the challange](./screenshot.jpg)
 
 ### Links
 
